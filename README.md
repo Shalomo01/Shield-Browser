@@ -1,7 +1,5 @@
 # Shield-Browser
 
-# Shield Browser
-
 Shield Browser is a simple yet high-performance web browser built using PyQt6 and PyQt5. It is designed to offer fast browsing speeds, an intuitive user interface, and essential features for seamless web navigation.
 
 ## Features
